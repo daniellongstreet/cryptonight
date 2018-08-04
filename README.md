@@ -1,0 +1,2 @@
+# cryptonight
+Original Cryptonight Algorithm 
